@@ -2,5 +2,5 @@
 
 - 🎯 I'm currently learning Android
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=deorerohit)](https://github.com/anuraghazra/github-readme-stats)
+[![Rohit's github stats](https://github-readme-stats.vercel.app/api?username=deorerohit)](https://github.com/anuraghazra/github-readme-stats)
 
